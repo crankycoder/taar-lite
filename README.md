@@ -1,3 +1,5 @@
+The TAAR-lite recommender is being merged into the main [TAAR repository](https://github.com/mozilla/taar/)
+
 [![Build Status](https://travis-ci.org/mozilla/taar-lite.svg?branch=master)](https://travis-ci.org/mozilla/taar-lite)
 
 # TAAR-lite
